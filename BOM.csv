@@ -1,0 +1,9 @@
+Item,Quantity,Source,Link,Price INR,Price USD
+RPi Zero,1,home,,0,0.00
+TowerPro MG996R Servo,9,robu.in,https://robu.in/product/towerpro-mg996r-digital-high-torque-servo-motor/,3141,35.85
+TowerPro MG90S Servo,1,robu.in,https://robu.in/product/mg90s-9g-servo-metal-gear/,253,2.89
+MAX9814 Microphone,1,robu.in,https://robu.in/product/max9814-high-performance-microphone-agc-amplifier-module-cma-4544pf-w/,216,2.47
+USB Sound Card,1,robu.in,https://robu.in/product/5-1-channel-usb-sound-card-for-raspberry-pi-and-computers/,97,1.11
+AUX cable,1,Swiggy Instamart,https://www.swiggy.com/...aux-cable-grey...,129,1.47
+HC‑SR04 Ultrasonic Sensor,2,robu.in,https://robu.in/product/hc-sr04-ultrasonic-range-finder/,112,1.28
+TOTAL,,, , ,45.07
