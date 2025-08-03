@@ -23,7 +23,7 @@ I also designed a mount for the turning servo to connect to the main body. This 
 the body was initially just a plain circle with mounts to attach the top, but that meant too much material (and also looked kinda ugly), so I decided to cut off two edges, to make it look like a rectangle with 2 opposite curved sides.
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f30323ffcbbb57e16e3c3d73f1b4de5076249138_1000037109.jpg)
-![body]()
+![body](https://hc-cdn.hel1.your-objectstorage.com/s/v3/673a575ca3dd97d242fd2a94db22e1c17fda4b38_1000037080.jpg)
 
 ### CAD: 1.5 hours
 
@@ -34,7 +34,8 @@ I designed the arm, connected it to the main body to rotate, and ta-da, it was d
 
 modelling the claw was still left, but I knew how I'd do it. this was something I invented but later found out is VERY common in robotic arms :sob:
 
-![arm]()
+![arm](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c9df6fd03651a5c088659f3109722fb98e8ac9b4_1000037104.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/639665a47c16f0db6b37402074fd2e0064902dea_1000037105.jpg)
 
 CAD: 2.5 hours
 
