@@ -7,6 +7,8 @@ I knew I'd make the leg today. initially, i thought of making a simple 2 part le
 
 But that would mean the hip servo would have too much weight to handle (torque reduces by distance of mass, if mass is close to the servo, it's better). So, after watching more yt videos, i decided to make an effector arm connected to the leg below the knee. [refer to image]. this meant that the two servos would be put next to each other at the hip itself.
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f4af9f95cccf2131fae20cc74a561ed148c40ab6_1000037108.jpg)
+
 ### CAD: 1.5 hours
 
 # Day 2
@@ -20,6 +22,9 @@ I also designed a mount for the turning servo to connect to the main body. This 
 
 the body was initially just a plain circle with mounts to attach the top, but that meant too much material (and also looked kinda ugly), so I decided to cut off two edges, to make it look like a rectangle with 2 opposite curved sides.
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f30323ffcbbb57e16e3c3d73f1b4de5076249138_1000037109.jpg)
+![body]()
+
 ### CAD: 1.5 hours
 
 # Day 3
@@ -29,6 +34,8 @@ I designed the arm, connected it to the main body to rotate, and ta-da, it was d
 
 modelling the claw was still left, but I knew how I'd do it. this was something I invented but later found out is VERY common in robotic arms :sob:
 
+![arm]()
+
 CAD: 2.5 hours
 
 # Day 4
@@ -37,5 +44,8 @@ SUBMISSION DAY! the deadline was 12AM EDT on August 1st, but because I live in â
 I got to designing the claw, the electronics (camera, mic, sensors, RPi Zero mount, etc). my parents allowed me to skip school asw. so I designed everything, made BOM, submitted the form 5 minutes after the deadline (thankfully it wasn't closed)
 
 aaand that's it, SuperHuman, something I'd been thinking of since such a long time, was finally designed and submitted!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/076cb0933f5ea0a780f86b1682dbfa9a6d0d24f0_1000037110.jpg)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/95730a64539b252cd06474ca12069ec040beff57_1000037078.jpg)
 
 ### CAD, documentation: 3 hours
