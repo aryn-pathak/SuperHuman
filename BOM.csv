@@ -6,4 +6,6 @@ MAX9814 Microphone,1,robu.in,https://robu.in/product/max9814-high-performance-mi
 USB Sound Card,1,robu.in,https://robu.in/product/5-1-channel-usb-sound-card-for-raspberry-pi-and-computers/,97,1.11
 AUX cable,1,Swiggy Instamart,https://www.swiggy.com/...aux-cable-grey...,129,1.47
 HC‑SR04 Ultrasonic Sensor,2,robu.in,https://robu.in/product/hc-sr04-ultrasonic-range-finder/,112,1.28
-TOTAL,,, , ,45.07
+MPU6500 Gyroscope,1,robu.in,https://robu.in/product/mpu6500-gyroscope-accelerometer-digital-motion-processor-dmp-6-axis-motion-sensor-with-i2c-spi-interface/,0,3.20
+LM2596HVS Buck Converter,1,robu.in,https://robu.in/product/lm2596hvs-dc-dc-buck-converter-4-5-50v-to-3-40v-adjustable-step-down-power-module/,0,0.75
+TOTAL,,,,,48.02
